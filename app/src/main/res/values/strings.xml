@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TCS</string>
+    <string name="title_activity_m_map">Map</string>
+    <string name="title_fingerprint">Touch to Unlock Car</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="note"> Your device should have at least one fingerprint registered in device settings</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully Unlocked Car with fingerprint authentication</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_emg">EMG</string>
+</resources>
